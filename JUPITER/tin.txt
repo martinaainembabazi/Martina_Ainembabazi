@@ -1,0 +1,2 @@
+Learning how to write into the file
+Appending new content to the file
